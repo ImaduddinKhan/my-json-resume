@@ -35,18 +35,61 @@
   },
   "work": [
     {
-      "name": "Pied Piper",
-      "location": "Palo Alto, CA",
-      "description": "Awesome compression company",
-      "position": "CEO/President",
-      "url": "http://piedpiper.example.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "name": "Software Hub",
+      "location": "Karachi, PK",
+      "description": "Mobile application development company",
+      "position": "Android Flutter Developer (Remote)",
+      "startDate": "2022-01-01",
+      "summary": "Responsible for developing mobile application UI from given designs and integrating with Firebase/Firestore Database.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Developed mobile application UI from given designs using Flutter",
+        "Connected designed UI with Firebase/Firestore Database",
+        "Worked with Flutter, Firebase, Firestore, and GitHub"
+      ]
+    },
+    {
+      "name": "Eartheme",
+      "location": "Remote",
+      "description": "Real Estate Android Project",
+      "position": "Android Developer/Full-Stack Developer",
+      "startDate": "2020-07-01",
+      "endDate": "2022-01-01",
+      "summary": "Eartheme mobile app helps buyers and purchasers find desirable properties on maps and communicate with sellers (Dealers/Owners).",
+      "highlights": [
+        "UI/UX finalization and implementation in Flutter",
+        "Created web APIs in .NET Core 3.1 with EF Core and MSSQL/MongoDB",
+        "Implemented CI/CD using GitLab and Docker on Linux server",
+        "Worked with Flutter, .NET Core WebAPIs, MongoDB/MSSQL, RabbitMQ, Docker, GitLab"
+      ]
+    },
+    {
+      "name": "SOFTCUBES INTERMEDIA",
+      "location": "Peshawar, PK",
+      "description": "Software development company",
+      "position": "Web Developer (Internee)",
+      "startDate": "2019-07-01",
+      "endDate": "2020-08-01",
+      "summary": "Worked as an intern web developer focusing on designing, implementing, and monitoring web pages and sites.",
+      "highlights": [
+        "Designed, implemented, and monitored web pages and sites",
+        "Collaborated with other developers to identify software errors and insufficiencies",
+        "Worked on stored procedures in SQL Server",
+        "Created ASP.NET Core Web API tutorials for beginners"
+      ]
+    },
+    {
+      "name": "University of Agriculture, Peshawar",
+      "location": "Peshawar, PK",
+      "description": "IBMS - Hotel Management System (Final Year Project)",
+      "position": "Developer (FYP)",
+      "startDate": "2018-11-01",
+      "endDate": "2019-05-01",
+      "summary": "Developed online hotel management web application under university advisor supervision to resolve hotel booking and reservation problems.",
+      "highlights": [
+        "Developed hotel management web app using PHP, phpMyAdmin, JavaScript, jQuery, Bootstrap",
+        "Worked in a team under university advisor supervision",
+        "Focused on resolving hotel booking and reservation problems",
+        "Improved hotel management efficiency through web-based solutions"
       ]
     }
   ],
@@ -65,16 +108,16 @@
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "url": "https://www.ou.edu/",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "score": "4.0",
+      "institution": "University of Agriculture, Peshawar",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2015-01-01",
+      "endDate": "2019-01-01",
       "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
+        "Mobile Application Development",
+        "Web Development",
+        "Database Management Systems",
+        "Software Engineering"
       ]
     }
   ],
@@ -97,36 +140,100 @@
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "Mobile Development",
+      "level": "Advanced",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
+        "Flutter",
+        "Android",
+        "Firebase",
+        "Firestore"
       ]
     },
     {
-      "name": "Compression",
-      "level": "Master",
+      "name": "Backend Development",
+      "level": "Advanced",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        ".NET Core",
+        "ASP.NET Core",
+        "Web APIs",
+        "Entity Framework Core"
+      ]
+    },
+    {
+      "name": "Frontend Development",
+      "level": "Intermediate",
+      "keywords": [
+        "Angular",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "jQuery",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "Database Technologies",
+      "level": "Advanced",
+      "keywords": [
+        "PostgreSQL",
+        "MongoDB",
+        "MSSQL",
+        "SQL Server",
+        "phpMyAdmin"
+      ]
+    },
+    {
+      "name": "DevOps & Tools",
+      "level": "Intermediate",
+      "keywords": [
+        "Docker",
+        "GitLab CI/CD",
+        "GitHub",
+        "RabbitMQ",
+        "Linux Server"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Advanced",
+      "keywords": [
+        "Dart",
+        "C#",
+        "PHP",
+        "JavaScript",
+        "SQL"
       ]
     }
   ],
   "languages": [
     {
       "language": "English",
+      "fluency": "Professional working proficiency"
+    },
+    {
+      "language": "Urdu",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Pushto",
       "fluency": "Native speaker"
     }
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Technology",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Mobile Development",
+        "Web Development",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Hobbies",
+      "keywords": [
+        "Photography",
+        "Chess",
+        "Football"
       ]
     }
   ],
@@ -152,7 +259,7 @@
       ],
       "startDate": "2016-08-24",
       "endDate": "2016-08-24",
-      "url": "missdirection.example.com",
+      "url": "https://missdirection.example.com",
       "roles": [
         "Team lead",
         "Designer"
