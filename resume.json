@@ -17,6 +17,11 @@
     },
     "profiles": [
       {
+        "network": "GitHub",
+        "username": "Imad Ud Din Khan",
+        "url": "https://github.com/ImaduddinKhan"
+      },
+      {
         "network": "X",
         "username": "Ummatee",
         "url": "https://x.com/ummathee"
