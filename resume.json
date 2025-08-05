@@ -254,26 +254,30 @@
   ],
   "projects": [
     {
-      "name": "Miss Direction",
-      "description": "A mapping engine that misguides you",
+      "name": "Eartheme Real Estate",
+      "description": "Mobile and web platform for property listings and management",
       "highlights": [
-        "Won award at AIHacks 2016",
-        "Built by all women team of newbie programmers",
-        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
+        "Developed full-stack solution with Flutter mobile app",
+        "Created RESTful APIs with .NET Core",
+        "Implemented real-time messaging system", 
+        "Integrated Google Maps for property location visualization",
+        "Set up API Gateway using Ocelot for request routing and load balancing",
+        "Deployed application using GitLab CI/CD pipeline with Nginx reverse proxy"
       ],
       "keywords": [
-        "GoogleMaps",
-        "Chrome Extension",
-        "Javascript"
+        "Flutter",
+        ".NET Core",
+        "MongoDB", 
+        "RabbitMQ",
+        "Docker",
+        "Ocelot",
+        "Nginx",
+        "Google Maps",
+        "GitLab CI/CD",
+        "Startup"
       ],
-      "startDate": "2016-08-24",
-      "endDate": "2016-08-24",
-      "url": "missdirection.example.com",
-      "roles": [
-        "Team lead",
-        "Designer"
-      ],
-      "entity": "Smoogle",
+      "startDate": "2020-07-01",
+      "endDate": "2022-01-01",
       "type": "application"
     }
   ],
