@@ -35,9 +35,9 @@
   },
   "work": [
     {
-      "name": "HALA",
+      "company": "Hala Financing Company",
       "position": "Full Stack Engineer",
-      "location": "Saudi Arabia",
+      "location": "Riyadh, Saudi Arabia",
       "description": "Fintech company providing innovative financial solutions",
       "startDate": "2022-11-01",
       "summary": "Developing full-stack solutions using modern technologies including ASP.NET Web API, .NET Core, Angular, and Microservices architecture.",
@@ -47,12 +47,33 @@
         "Designed and implemented microservices architecture for scalable solutions",
         "Contributed to obtaining SAMA license for Hala Financing Company",
         "Collaborated with cross-functional teams to deliver high-quality software solutions"
+      ],
+      "keywords": [
+        "ASP.NET Web API",
+        ".NET Core",
+        "Angular",
+        "Microservices",
+        "PostgreSQL",
+        "MongoDB",
+        "Docker",
+        "RabbitMQ"
+      ],
+      "url": "https://halafinancing.com",
+      "type": "full-time",
+      "industry": "Fintech",
+      "technologies": [
+        "ASP.NET Core",
+        "Angular",
+        "PostgreSQL",
+        "MongoDB",
+        "Docker",
+        "RabbitMQ"
       ]
     },
     {
-      "name": "Software Hub",
+      "company": "Software Hub",
       "position": "Android Flutter Developer (Remote)",
-      "location": "Karachi, PK",
+      "location": "Karachi, Pakistan",
       "description": "Mobile application development company",
       "startDate": "2022-01-01",
       "endDate": "2022-11-01",
@@ -61,13 +82,22 @@
         "Developed mobile application UI from given designs using Flutter",
         "Connected designed UI with Firebase/Firestore Database",
         "Worked with Flutter, Firebase, Firestore, and GitHub"
-      ]
+      ],
+      "keywords": [
+        "Flutter",
+        "Firebase",
+        "Firestore",
+        "GitHub",
+        "Mobile Development"
+      ],
+      "type": "contract",
+      "industry": "Mobile Development"
     },
     {
-      "name": "Eartheme",
+      "company": "Eartheme",
       "position": "Android Developer/Full-Stack Developer",
-      "location": "Remote",
-      "description": "Real Estate Android Project",
+      "location": "Swat, Pakistan",
+      "description": "Real Estate Project",
       "startDate": "2020-07-01",
       "endDate": "2022-01-01",
       "summary": "Eartheme mobile app helps buyers and purchasers find desirable properties on maps and communicate with sellers (Dealers/Owners).",
@@ -76,12 +106,25 @@
         "Created web APIs in .NET Core 3.1 with EF Core and MSSQL/MongoDB",
         "Implemented CI/CD using GitLab and Docker on Linux server",
         "Worked with Flutter, .NET Core WebAPIs, MongoDB/MSSQL, RabbitMQ, Docker, GitLab"
-      ]
+      ],
+      "keywords": [
+        "Flutter",
+        ".NET Core",
+        "MongoDB",
+        "PostgreSQL",
+        "RabbitMQ",
+        "Docker",
+        "GitLab CI/CD",
+        "Ocelot",
+        "Nginx",
+        "Google Maps"
+      ],
+      "type": "Own Startup"
     },
     {
-      "name": "SOFTCUBES INTERMEDIA",
+      "company": "SOFTCUBES INTERMEDIA",
       "position": "Web Developer (Internee)",
-      "location": "Peshawar, PK",
+      "location": "Peshawar, Pakistan",
       "description": "Software development company",
       "startDate": "2019-07-01",
       "endDate": "2020-08-01",
@@ -91,10 +134,17 @@
         "Collaborated with other developers to identify software errors and insufficiencies",
         "Worked on stored procedures in SQL Server",
         "Created ASP.NET Core Web API tutorials for beginners"
-      ]
+      ],
+      "keywords": [
+        "Web Development",
+        "SQL Server",
+        "Stored Procedures"
+      ],
+      "type": "internship",
+      "industry": "Software Development"
     },
     {
-      "name": "University of Agriculture, Peshawar",
+      "company": "University of Agriculture, Peshawar",
       "position": "Developer (FYP)",
       "location": "Peshawar, PK",
       "description": "IBMS - Hotel Management System (Final Year Project)",
@@ -106,7 +156,15 @@
         "Worked in a team under university advisor supervision",
         "Focused on resolving hotel booking and reservation problems",
         "Improved hotel management efficiency through web-based solutions"
-      ]
+      ],
+      "keywords": [
+        "PHP",
+        "phpMyAdmin",
+        "JavaScript",
+        "jQuery",
+        "Bootstrap"
+      ],
+      "type": "project"
     }
   ],
   "volunteer": [
@@ -135,7 +193,12 @@
         "Mobile Application Development",
         "Web Development",
         "Database Management Systems",
-        "Software Engineering"
+        "Software Engineering",
+        "Computer Networks",
+        "Operating Systems",
+        "Data Structures and Algorithms",
+        "Computer Architecture",
+        "Object-Oriented Programming"
       ]
     }
   ],
@@ -149,9 +212,15 @@
   ],
   "certificates": [{
     "name": "Angular - The Complete Guide",
-    "date": "2024-03-19",
+    "date": "2024-03-19", 
     "issuer": "Udemy",
     "url": "https://www.udemy.com/course/the-complete-guide-to-angular-2/"
+  },
+  {
+    "name": "Flutter & Dart - The Complete Guide",
+    "date": "2024-03-19",
+    "issuer": "Udemy", 
+    "url": "https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/"
   }],
   "skills": [
     {
